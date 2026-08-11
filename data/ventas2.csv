@@ -1,0 +1,16 @@
+codigo,producto,talla,color,cliente,ciudad,cantidad,precio,metodo_pago,estado,total
+V001,Polo Oversize Anime,M,Negro,Valeria Rojas,Arequipa,2,45.0,Yape,entregado,90.0
+V002,Polo Streetwear Retro,L,Blanco,Diego Salazar,Arequipa,1,50.0,Efectivo,pendiente,50.0
+V003,Polo Minimalista Logo,S,Gris,Camila Herrera,Cusco,3,38.0,Plin,entregado,114.0
+V004,Polo Urbano 90s,M,Azul,Luis Ramos,Lima,1,55.0,Tarjeta,cancelado,55.0
+V005,Polo Oversize Anime,XL,Negro,Andrea Torres,Arequipa,2,45.0,Yape,entregado,90.0
+V006,Polo Gamer Edition,L,Rojo,Carlos Medina,Puno,1,48.0,Efectivo,pendiente,48.0
+V007,Polo Streetwear Retro,M,Blanco,SofÃ­a Vargas,Arequipa,4,50.0,Plin,entregado,200.0
+V008,Polo Minimalista Logo,M,Verde,Jorge Flores,Tacna,2,38.0,Yape,entregado,76.0
+V009,Polo Gamer Edition,S,Negro,MarÃ­a Quispe,Arequipa,1,48.0,Tarjeta,pendiente,48.0
+V010,Polo Urbano 90s,L,Azul,AndrÃ©s Castillo,Cusco,2,55.0,Efectivo,entregado,110.0
+V011,Polo Oversize Anime,M,Morado,LucÃ­a Vargas,Arequipa,1,45.0,Yape,entregado,45.0
+V012,Polo Streetwear Retro,XL,Blanco,Pedro HuamÃ¡n,Lima,2,50.0,Plin,pendiente,100.0
+V013,Polo Minimalista Logo,L,Gris,Gabriela NÃºÃ±ez,Arequipa,5,38.0,Tarjeta,entregado,190.0
+V014,Polo Gamer Edition,M,Negro,Renato Paredes,Tacna,2,48.0,Yape,cancelado,96.0
+V015,Polo Urbano 90s,S,Azul,Fernanda LÃ³pez,Arequipa,3,55.0,Efectivo,entregado,165.0
